@@ -1,0 +1,23 @@
+{
+  "name": "command-handler-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/node-pre-gyp": "^0.4.2",
+    "@discordjs/voice": "^0.7.5",
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.3.2",
+    "ffmpeg-static": "^4.4.1",
+    "node-gyp": "^8.4.1",
+    "opusscript": "^0.0.8",
+    "tweetnacl": "^1.0.3",
+    "yt-search": "^0.1.4",
+    "ytdl-core": "^4.10.0"
+  }
+}
