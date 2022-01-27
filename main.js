@@ -16,8 +16,6 @@ const client = new Discord.Client({
     ]
 });
 
-// bot token
-//const Token = 'OTMxMDE4NTYwMjE2NjQ1NjM0.Yd-Umg.GzaQEW_OwxoC1Jbh-9kNBPCnArI';
 // bot prefix
 const prefix = '!!';
 
